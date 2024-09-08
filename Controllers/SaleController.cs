@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using IndustryConnect_Week5_WebApi.Models;
+using IndustryConnect_Week5_WebApi.Dtos;
 
 namespace IndustryConnect_Week5_WebApi.Controllers
 {
@@ -22,24 +23,58 @@ namespace IndustryConnect_Week5_WebApi.Controllers
 
         // GET: api/Sale
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Sale>>> GetSales()
+        public async Task<ActionResult<IEnumerable<SaleDto>>> GetSales()
         {
-            return await _context.Sales.Include(p => p.Product)
-                .Include(c => c.Customer).ToListAsync();
+            var sales = _context.Sales
+                 .Include(s => s.Customer)
+                 .Include(s => s.Product)
+                 .Include(s => s.Store)
+                 .Select(s => new SaleDto
+                 {
+                     //Id = s.Id,
+                     StoreName = s.Store.Name,
+                     CustomerName = s.Customer != null ? $"{s.Customer.FirstName} {s.Customer.LastName}" : "Unknown Customer",
+                     ProductName = s.Product.Name
+                    
+                 }).ToList();
+
+            if (sales.Count == 0)
+            {
+                return NotFound("No sales available.");
+            }
+
+            return Ok(sales);
+
+
         }
 
         // GET: api/Sale/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Sale>> GetSale(int id)
+        public async Task<ActionResult<SaleDto>> GetSale(int id)
         {
-            var sale = await _context.Sales.FindAsync(id);
+
+            var sale = await _context.Sales
+                .Include(p => p.Product)
+                .Include(c => c.Customer)
+                .Include(s => s.Store)
+                .FirstOrDefaultAsync(s => s.Id == id);
 
             if (sale == null)
             {
                 return NotFound();
             }
 
-            return sale;
+            // Map Sale to SaleDto
+            var saleDto = new SaleDto
+            {
+                //Id = sale.Id,
+                StoreName = sale.Store != null ? sale.Store.Name : "Unknown Store",
+                CustomerName = sale.Customer != null ? $"{sale.Customer.FirstName} {sale.Customer.LastName}" : "Unknown Customer",
+                ProductName = sale.Product != null ? sale.Product.Name : "Unknown Product",
+                
+            };
+
+            return Ok(saleDto);
         }
 
         // PUT: api/Sale/5

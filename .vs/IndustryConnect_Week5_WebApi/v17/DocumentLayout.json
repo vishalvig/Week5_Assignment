@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Indusry Connect\\Week5\\Week5_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\mappers\\salemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:mappers\\salemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\models\\customersale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:models\\customersale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\mappers\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:mappers\\customermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\models\\industryconnectweek2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:models\\industryconnectweek2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|d:\\indusry connect\\week5\\week5_task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BB75226-5BF1-45C6-B628-22DBC16808D6}|IndustryConnect_Week5_WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:43:49.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Dtos\\SaleDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\SaleDto.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Dtos\\SaleDto.cs",
+              "RelativeToolTip": "Dtos\\SaleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:43:41.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SaleController.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "Controllers\\SaleController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAUwCEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:42:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerMapper.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Mappers\\CustomerMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\CustomerMapper.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Mappers\\CustomerMapper.cs",
+              "RelativeToolTip": "Mappers\\CustomerMapper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvyMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:08:00.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CustomerDto.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "Dtos\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:05:38.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleMapper.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Mappers\\SaleMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\SaleMapper.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Mappers\\SaleMapper.cs",
+              "RelativeToolTip": "Mappers\\SaleMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:48:16.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerSale.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Models\\CustomerSale.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerSale.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Models\\CustomerSale.cs",
+              "RelativeToolTip": "Models\\CustomerSale.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:10:15.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:05:53.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAQwGMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:00:36.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:57:39.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ProductDto.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:05:42.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:58:39.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IndustryConnectWeek2Context.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\Models\\IndustryConnectWeek2Context.cs",
+              "RelativeDocumentMoniker": "Models\\IndustryConnectWeek2Context.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\Models\\IndustryConnectWeek2Context.cs",
+              "RelativeToolTip": "Models\\IndustryConnectWeek2Context.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvx0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:58:10.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week5\\Week5_Task\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Indusry Connect\\Week5\\Week5_Task\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T06:57:54.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

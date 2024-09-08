@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IndustryConnect_Week5_WebApi.props" />
+</Project>
